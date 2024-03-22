@@ -9,20 +9,21 @@ function getData() {
     const parsedTweets = JSON.parse(data);
     return parsedTweets;
 }
+tweetsData=getData()
 
-router
-    .route("/search")
-    .get((req, res) => {
-        const data=getData().tweets;
-        const { keyword } = req.query;
-        if (!keyword) {
-          return res.status(400).json({ error: 'Keyword parameter is required' });
-        }
-        const filteredTweets = data.filter(tweet =>
-          tweet.keyword.toLowerCase() === keyword.toLowerCase()
-        );
-        res.json({ tweets: filteredTweets });
-      });
+router.get("/search", (req, res) => {
+  const { keyword } = req.query;
   
+  if (!keyword) {
+      return res.status(400).json({ error: 'Keyword parameter is required' });
+  }
+
+  const filteredTweets = tweetsData.filter(item => item.keyword.toLowerCase() === keyword.toLowerCase());
+
+  // Extracting tweets from the filtered data
+  const tweets = filteredTweets.map(item => item.tweets).flat();
+
+  res.json({ tweets });
+});
 
 module.exports = router;
