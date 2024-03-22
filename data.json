@@ -1,114 +1,102 @@
-{
-    "tweets": [
-      {
-        "user_avatar": "https://example.com/avatar19.png",
-        "user_name": "techgeek123",
-        "user_followers": 6700,
-        "tweet_id": "plmko-123ed",
-        "tweet_content": "Thrilled to be working with a top-tier tech company. The energy and passion here are contagious! #techcompany #dreamjob",
-        "tweet_views": 2400,
-        "tweet_time": "2023/03/04",
-        "tweet_comments": 14
-      },
-      {
-        "user_avatar": "https://example.com/avatar20.png",
-        "user_name": "codingninja88",
-        "user_followers": 8900,
-        "tweet_id": "okmju-456fg",
-        "tweet_content": "Our tech company is committed to building products that improve lives. It's more than just code; it's about making a difference. #techcompany #impact",
-        "tweet_views": 3200,
-        "tweet_time": "2023/03/03",
-        "tweet_comments": 17
-      },
-      {
-        "user_avatar": "https://example.com/avatar21.png",
-        "user_name": "innovationguru",
-        "user_followers": 7200,
-        "tweet_id": "edcfr-789zx",
-        "tweet_content": "Being part of a fast-paced tech company keeps me on my toes. Every day brings new challenges and opportunities for growth. #techcompany #growthmindset",
-        "tweet_views": 2800,
-        "tweet_time": "2023/03/02",
-        "tweet_comments": 20
-      },
-      {
-        "user_avatar": "https://example.com/avatar22.png",
-        "user_name": "datadiva",
-        "user_followers": 9500,
-        "tweet_id": "rfvgt-890cv",
-        "tweet_content": "Joining a tech company straight out of college was the best decision I ever made. The learning opportunities are endless! #techcompany #career",
-        "tweet_views": 3000,
-        "tweet_time": "2023/03/01",
-        "tweet_comments": 23
-      },
-      {
-        "user_avatar": "https://example.com/avatar23.png",
-        "user_name": "ai_enthusiast",
-        "user_followers": 8400,
-        "tweet_id": "tgbhn-987bn",
-        "tweet_content": "At our tech company, we're not just solving problems; we're shaping the future. Join us on our journey of innovation! #techcompany #innovation",
-        "tweet_views": 2600,
-        "tweet_time": "2023/02/28",
-        "tweet_comments": 19
-      },
-      {
-        "user_avatar": "https://example.com/avatar24.png",
-        "user_name": "blockchainwizard",
-        "user_followers": 7800,
-        "tweet_id": "yhnjm-123qw",
-        "tweet_content": "The collaborative culture at our tech company fuels creativity and drives innovation. Proud to be a part of this team! #techcompany #teamwork",
-        "tweet_views": 2900,
-        "tweet_time": "2023/02/27",
-        "tweet_comments": 16
-      },
-      {
-        "user_avatar": "https://example.com/avatar25.png",
-        "user_name": "techpreneur",
-        "user_followers": 9100,
-        "tweet_id": "ujmik-345er",
-        "tweet_content": "As a founder of a tech company, the journey has been challenging yet rewarding. Grateful for the opportunity to make a difference. #techcompany #founder",
-        "tweet_views": 3100,
-        "tweet_time": "2023/02/26",
-        "tweet_comments": 21
-      },
-      {
-        "user_avatar": "https://example.com/avatar26.png",
-        "user_name": "devopsdiva",
-        "user_followers": 7000,
-        "tweet_id": "zaxsc-567yt",
-        "tweet_content": "Our tech company embraces DevOps principles to deliver reliable and scalable solutions to our clients. #techcompany #devops",
-        "tweet_views": 2700,
-        "tweet_time": "2023/02/25",
-        "tweet_comments": 18
-      },
-      {
-        "user_avatar": "https://example.com/avatar27.png",
-        "user_name": "cloudwhiz",
-        "user_followers": 9600,
-        "tweet_id": "qazws-789ui",
-        "tweet_content": "Working at a leading cloud tech company has exposed me to cutting-edge technologies and groundbreaking projects. #techcompany #cloud",
-        "tweet_views": 3300,
-        "tweet_time": "2023/02/24",
-        "tweet_comments": 22
-      },
-      {
-        "user_avatar": "https://example.com/avatar28.png",
-        "user_name": "machinelearningexpert",
-        "user_followers": 8300,
-        "tweet_id": "wsxdr-234gf",
-        "tweet_content": "Our tech company is harnessing the power of machine learning to drive innovation across various industries. Exciting times ahead! #techcompany #machinelearning",
-        "tweet_views": 2800,
-        "tweet_time": "2023/02/23",
-        "tweet_comments": 20
-      },
-      {
-        "user_avatar": "https://example.com/avatar29.png",
-        "user_name": "techsavvy",
-        "user_followers": 7800,
-        "tweet_id": "edcfr-567ju",
-        "tweet_content": "As a tech enthusiast, being part of a dynamic tech company keeps me inspired and motivated to push boundaries. #techcompany #enthusiasm",
-        "tweet_views": 2500,
-        "tweet_time": "2023/02/22",
-        "tweet_comments": 15
-      }
-    ]
-}
+[
+    {
+      "keyword": "Affiliate Marketing",
+      "mentions": 613,
+      "tweets": [
+        {
+          "user_avatar": "avatar3.jpg",
+          "user_name": "Selliith",
+          "tweet_content": "Affiliate Marketing remains the greatest opportunity for so many people\n\nBut it will become a curse if you start with a Ponzi mindset,\n\nwhere you want to cash out without focusing on acquiring the required skills of marketing.\n\nChidinma note this 📌\nAffiliate Marketing is not a get rich quick business\n\nBut it can get you rich\n\nSTOP rushing here and there, jumping from one business to another,\n\nCalm down and LEARN the basics of marketing.",
+          "tweet_time": "2024-03-22T04:12:00Z",
+          "tweet_comments": 3,
+          "tweet_retweets": 7,
+          "tweet_likes": 10,
+          "tweet_views": 278
+        },
+        {
+          "user_avatar": "avatar2.jpg",
+          "user_name": "IAmDavidFavour",
+          "tweet_content": "This Affiliate made $150 in 48 hours of starting Affiliate Marketing\n\nYes that's cool\n\nSuper cool\n\nBUT\n\nThat doesn't mean you can do same\n\nDon't rush into Affiliate Marketing just because someone made an amount in 2 hours\n\nBe ready to learn & implement\n\nYours can take time!\n\nGM",
+          "tweet_time": "2024-03-21T23:30:00Z",
+          "tweet_comments": 26,
+          "tweet_retweets": 0,
+          "tweet_likes": 36,
+          "tweet_views": 367
+        },
+        {
+          "user_avatar": "avatar3.jpg",
+          "user_name": "WendyAchumba",
+          "tweet_content": "💚 Most Affiliate Marketers fail because they\n\n- Focus on selling courses\n- Don't use their marketing skills to sell other things\n- Don't even understand what Affiliate Marketing is\n\nBut how can one have a business and not understand what the business is?",
+          "tweet_time": "2024-03-22T00:27:00Z",
+          "tweet_comments": 17,
+          "tweet_retweets": 0,
+          "tweet_likes": 29,
+          "tweet_views": 428
+        }
+      ],
+      "top_accounts": [
+        {
+          "user_name": "Selliith",
+          "user_followers": 18000
+        },
+        {
+          "user_name": "john_doe",
+          "user_followers": 6300
+        },
+        {
+          "user_name": "sarah_smith",
+          "user_followers": 2300
+        }
+      ]
+    },
+    {
+      "keyword": "PartnerStack",
+      "mentions": 613,
+      "tweets": [
+        {
+          "user_avatar": "avatar3.jpg",
+          "user_name": "Selliith",
+          "tweet_content": "Affiliate Marketing remains the greatest opportunity for so many people\n\nBut it will become a curse if you start with a Ponzi mindset,\n\nwhere you want to cash out without focusing on acquiring the required skills of marketing.\n\nChidinma note this 📌\nAffiliate Marketing is not a get rich quick business\n\nBut it can get you rich\n\nSTOP rushing here and there, jumping from one business to another,\n\nCalm down and LEARN the basics of marketing.",
+          "tweet_time": "2024-03-22T04:12:00Z",
+          "tweet_comments": 3,
+          "tweet_retweets": 7,
+          "tweet_likes": 10,
+          "tweet_views": 278
+        },
+        {
+          "user_avatar": "avatar2.jpg",
+          "user_name": "IAmDavidFavour",
+          "tweet_content": "This Affiliate made $150 in 48 hours of starting Affiliate Marketing\n\nYes that's cool\n\nSuper cool\n\nBUT\n\nThat doesn't mean you can do same\n\nDon't rush into Affiliate Marketing just because someone made an amount in 2 hours\n\nBe ready to learn & implement\n\nYours can take time!\n\nGM",
+          "tweet_time": "2024-03-21T23:30:00Z",
+          "tweet_comments": 26,
+          "tweet_retweets": 0,
+          "tweet_likes": 36,
+          "tweet_views": 367
+        },
+        {
+          "user_avatar": "avatar3.jpg",
+          "user_name": "WendyAchumba",
+          "tweet_content": "💚 Most Affiliate Marketers fail because they\n\n- Focus on selling courses\n- Don't use their marketing skills to sell other things\n- Don't even understand what Affiliate Marketing is\n\nBut how can one have a business and not understand what the business is?",
+          "tweet_time": "2024-03-22T00:27:00Z",
+          "tweet_comments": 17,
+          "tweet_retweets": 0,
+          "tweet_likes": 29,
+          "tweet_views": 428
+        }
+      ],
+      "top_accounts": [
+        {
+          "user_name": "Selliith",
+          "user_followers": 18000
+        },
+        {
+          "user_name": "john_doe",
+          "user_followers": 6300
+        },
+        {
+          "user_name": "sarah_smith",
+          "user_followers": 2300
+        }
+      ]
+    }
+  ]

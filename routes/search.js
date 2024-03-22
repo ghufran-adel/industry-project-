@@ -1,40 +1,23 @@
+
 const express = require("express");
 const router = express.Router();
-const fs =require ("fs");
-const tweets ='../data.json'
+const fs = require("fs");
+const tweets = './data.json';
 
-
-// function getData(){
-//     const data=fs.readFileSync(tweets);
-// }
-console.log(getData());
+function getData() {
+    const data = fs.readFileSync(tweets);
+    const parsedTweets = JSON.parse(data);
+    return parsedTweets;
+}
 
 router
     .route("/search")
-    .post(( (req, res) =>{
-const {keyWord}= req.body;
-
-
-
-
-    }));
-
-
-// post (word)
-
-
-
-// get=>
-// mentions 
-
-//  [
-//  time (time would be dynamic)
-//  tweets
-//  user name ]
-
-
-// num of mentions 
-
-// top three accounts 
+    .get((req, res) => {
+        const { keyword } = req.query;
+        const data = getData();
+        
+        const responseData = data.find(tweet => tweet.keyword === keyword);
+        res.json({ responseData }); // Changed from res.send.json to res.json
+    });
 
 module.exports = router;
