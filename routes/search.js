@@ -13,11 +13,16 @@ function getData() {
 router
     .route("/search")
     .get((req, res) => {
+        const data=getData().tweets;
         const { keyword } = req.query;
-        const data = getData();
-        
-        const responseData = data.find(tweet => tweet.keyword === keyword);
-        res.json({ responseData }); // Changed from res.send.json to res.json
-    });
+        if (!keyword) {
+          return res.status(400).json({ error: 'Keyword parameter is required' });
+        }
+        const filteredTweets = data.filter(tweet =>
+          tweet.keyword.toLowerCase() === keyword.toLowerCase()
+        );
+        res.json({ tweets: filteredTweets });
+      });
+  
 
 module.exports = router;
